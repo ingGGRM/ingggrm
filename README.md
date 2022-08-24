@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/61787544?v=4" style="border-radius:50%"/>
+   <h2 align="center">¡Hi there👋! I'm Genesis G. Rosario</h2>
+   <h4 align="center">Electronic Engineer 💻 IT Specialyst 💻 Web&App Developer</h3>
+</p>
 <!--
 **ingGGRM/ingggrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
